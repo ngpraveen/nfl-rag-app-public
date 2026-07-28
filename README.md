@@ -44,7 +44,7 @@ The following policies and contorls are added to ensure responbile and safe use 
  - Harmful content including hate, insults, sexual, violance
  - Denied topics (investment advice in this demo)
  - Profanity
- - Custom words (for the demo purpose, Mr. Irrelevant, O. J. Simpson, Gillette (stadium) and RCA Dome are not allowed)
- - Personally identifiable information (PII) such as phone number, email, username, password, drivers id, credit card numbers and bank account number will be masked. 
+ - Custom words (for the demo purpose, **Mr. Irrelevant**, **O. J. Simpson**, **Gillette** (stadium) and **RCA Dome** are not allowed)
+ - Personally identifiable information (PII) such as **phone number**, **email**, **username**, **password**, **drivers id**, **credit card number** and **bank account number** will be masked. 
 
 
