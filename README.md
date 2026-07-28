@@ -1,17 +1,16 @@
 ## RAG Application Demo
 
 A RAG application is created for a toy problem, but with real production features. 
-# The application is hosted [here](http://www.praveenng.com:5001/).
-The application is hosted <a href="http://www.praveenng.com:5001/" target="_blank">here</a>.
+The application is hosted [here](http://www.praveenng.com:5001/).
 
 Features include:
-- [x] Multi-tenancy 
-- [x] Short term (in-session) memory
-- [x] Responsible AI and AI Governance ([complete list](#responsible-ai-and-ai-governance)) 
-- [ ] Automated pipeline 
-- [ ] Hybrid search
-- [ ] Logging
-- [ ] Rate-limiting
+- ✅ Multi-tenancy 
+- ✅ Short term (in-session) memory
+- ✅ Responsible AI and AI Governance ([complete list](#responsible-ai-and-ai-governance)) 
+- 🔲 Automated pipeline 
+- 🔲 Hybrid search
+- 🔲 Logging
+- 🔲 Rate-limiting
 
 The knowledge base for this application is formed using Wikipedia articles of the 32 NFL teams, downloaded as markdown files.
 
