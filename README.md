@@ -18,7 +18,7 @@ Some of the features not included are:
 - ❌ Autoscaling
 
 The knowledge base for this application is formed using Wikipedia articles of the 32 NFL teams, downloaded as markdown files.
-For your reference, they are [included](#input-data) in this repo.
+For your reference, they are included in the [input_data](https://github.com/ngpraveen/nfl-rag-app-public/tree/master/input_data) directory. 
 
 The RAG was built using:
 - [LlamaIndex](https://www.llamaindex.ai/) for workflow
