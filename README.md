@@ -1,7 +1,8 @@
 ## RAG Application Demo
 
 A RAG application is created for a toy problem, but with real production features. 
-The application is hosted [here](http://www.praveenng.com:5001/).
+# The application is hosted [here](http://www.praveenng.com:5001/).
+The application is hosted <a href="http://www.praveenng.com:5001/" target="_blank">here</a>.
 
 Features include:
 - [x] Multi-tenancy 
